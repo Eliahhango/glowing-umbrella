@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Local tooling/agent skill folders
+.codex/
+.cursor/
+
+# Local notes
+Skills.txt
+
+# Misc
+.DS_Store
+*.log
